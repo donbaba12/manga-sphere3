@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/manga-sphere3/static/css/main.2c6d33cc.css",
-    "main.js": "/manga-sphere3/static/js/main.f191ec6e.js",
+    "main.js": "/manga-sphere3/static/js/main.909540e1.js",
     "static/media/DS.png": "/manga-sphere3/static/media/DS.c7445d274ca7b6c5c91a.png",
     "static/media/gojo.jpg": "/manga-sphere3/static/media/gojo.4d5a2944c5be209c59ce.jpg",
     "index.html": "/manga-sphere3/index.html",
     "main.2c6d33cc.css.map": "/manga-sphere3/static/css/main.2c6d33cc.css.map",
-    "main.f191ec6e.js.map": "/manga-sphere3/static/js/main.f191ec6e.js.map"
+    "main.909540e1.js.map": "/manga-sphere3/static/js/main.909540e1.js.map"
   },
   "entrypoints": [
     "static/css/main.2c6d33cc.css",
-    "static/js/main.f191ec6e.js"
+    "static/js/main.909540e1.js"
   ]
 }
